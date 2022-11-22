@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Lab 3.xsl"?>
+<courier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Lab 3.xsd">
+    <order>
+        <id>001</id>
+        <sender>Lalitha</sender>
+        <reciver>Lalitha's Mom</reciver>
+        <distance>14kms</distance>
+        <time>120mins</time>
+        <content>Household Items</content>
+        <instructions>Caution: Really Hot</instructions>
+    </order>
+    <order>
+        <id>002</id>
+        <sender>Lolitha</sender>
+        <reciver>Lolitha's Sister</reciver>
+        <distance>10kms</distance>
+        <time>021mins</time>
+        <content>Other</content>
+        <instructions>Fragile: Handle with care</instructions>
+    </order>
+    <order>
+        <id>003</id>
+        <sender>Lilitha</sender>
+        <reciver>Lilitha's Dad</reciver>
+        <distance>27kms</distance>
+        <time>050mins</time>
+        <content>Medicines</content>
+        <instructions>Do not expose to sun light</instructions>
+    </order>
+</courier>
